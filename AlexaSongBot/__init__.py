@@ -1,7 +1,7 @@
 # © @Mr_Dark_Prince
 import logging
 from pyrogram import Client
-from config import API_HASH, API_ID, BOT_TOKEN, CASH_API_KEY
+from config import API_HASH, API_ID, BOT_TOKEN
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
